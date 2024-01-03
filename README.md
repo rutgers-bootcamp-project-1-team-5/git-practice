@@ -1,1 +1,1 @@
-# git-practice
+# Project 1, Team 5
