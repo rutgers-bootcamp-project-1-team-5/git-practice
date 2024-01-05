@@ -1,0 +1,965 @@
+[{
+    "meta": {
+        "found": 86,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "063d18e6-3f47-4869-aa7d-da86d4fcbd1d",
+            "title": "Meta shares sink 20% as Facebook loses daily users for the first time",
+            "description": "Meta said it faced hits from Apple Inc\u2019s privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram.",
+            "keywords": "Facebook, Meta, Mark Zuckerberg, Facebook results, Meta results, Meta earnings, Meta shares plunge 20%, Facebook loses daily users for the first time, Facebook daily users, Apple, ads, Apple privacy changes, Apple App tracking feature, Apple's privacy feature dents Facebook ad revenue, ad revenue, ad business, metaverse",
+            "snippet": "Meta said it faced hits from Apple Inc\u2019s privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Face...",
+            "url": "https://www.thehindu.com/sci-tech/technology/internet/meta-shares-sink-20-as-facebook-loses-daily-users-for-the-first-time/article38368892.ece",
+            "image_url": "https://www.thehindu.com/sci-tech/technology/internet/yi2xkr/article37886352.ece/ALTERNATES/LANDSCAPE_615/AFMeta-AFPjpeg",
+            "language": "en",
+            "published_at": "2022-02-03T04:33:40.000000Z",
+            "source": "thehindu.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 66.12781,
+                    "sentiment_score": 0.242664,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> said it faced hits from Apple Inc\u2019s privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Facebook owner <em>Meta</em> Platforms Inc's shares plunged more than 20% late on Wednesday after the social media company posted a weaker-than-expected forecast, blaming Apple's privacy changes and increased competition for users from rivals like TikTok.",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> said it faced hits from Apple Inc's privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram. It also cited macroeconomic issues like supply-chain disruptions.",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The after-hours slump in <em>Meta</em> shares vaporised $200 billion of its market value, while peers Twitter Inc, Snap Inc and Pinterest Inc lost another $15 billion in value.\n\nShares of Alphabet Inc, which posted record quarterly sales that topped expectations on Tuesday, were down nearly 2%.",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em>, owner of the second-largest digital ad platform in the world after Google, had previously warned its advertising business faced \"significant uncertainty\" in the fourth quarter.",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> forecast first-quarter revenue in the range of $27 billion to $29 billion. Analysts were expecting $30.15 billion, according to IBES data from Refinitiv.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"It's clear that there are many big roadblocks ahead as <em>Meta</em> faces tough new competition for ad revenue such as TikTok, and as it contends with ongoing ad targeting and measurement challenges from Apple's iOS changes,\" said Insider Intelligence analyst Debra Aho Williamson.",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Also Read | Facebook\u2019s cryptocurrency venture to wind down after asset sale to Silvergate\n\nThe company said on Wednesday it would this year change its stock ticker to \"<em>META</em>,\" the latest step in its rebrand to focus on the metaverse, a futuristic idea of virtual environments where users can work, socialize and play.",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> did not comment on the price of a deal with Roundhill Investments, which said in January it would stop using the symbol for its <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>.\n\nThe tech giant, which changed its name in October to reflect its metaverse aims, is betting the metaverse will be the successor to the mobile internet.",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"Investors looking at <em>Meta</em> are starting to realise that buying their stock is no longer mostly an investment into their ad platform,\" said Flynn Zaiger, CEO of social media agency Online Optimism. \"Investing in <em>Meta</em> now looks more like a commitment that you believe that the metaverse will replace much of the internet consumers' experience today.\"",
+                            "sentiment": 0.7871,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> shares sink 20% as Facebook loses daily users for the first time",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "2e30b78b-34f4-4457-b0d1-4f61c1c5fa53",
+            "title": "Facebook loses daily users for the first time, Meta shares sink 20%",
+            "description": "Facebook\u2019s global daily active users declined from the previous quarter for the first time, to 1.929 billion from 1.930 billion. Meta said it faced hits from Apple Inc's privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram",
+            "keywords": "",
+            "snippet": "Facebook founder Mark Zuckerberg (File image)\n\nFacebook owner Meta Platforms Inc's shares plunged more than 20 percent late on February 2 after the social media...",
+            "url": "https://www.moneycontrol.com/news/business/facebook-loses-daily-users-for-the-first-time-meta-shares-sink-20-8029281.html",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2021/03/Mark-Zuckerberg-770x433.jpg",
+            "language": "en",
+            "published_at": "2022-02-03T02:14:14.000000Z",
+            "source": "moneycontrol.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 68.96002,
+                    "sentiment_score": 0.24099,
+                    "highlights": [
+                        {
+                            "highlight": "Facebook founder Mark Zuckerberg (File image)\n\nFacebook owner <em>Meta</em> Platforms Inc's shares plunged more than 20 percent late on February 2 after the social media company posted a weaker-than-expected forecast, blaming Apple's privacy changes and increased competition for users from rivals like TikTok.",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> said it faced hits from Apple Inc's privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram. It also cited macroeconomic issues like supply-chain disruptions.",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The after-hours slump in <em>Meta</em> shares vaporized $200 billion of its market value, while peers Twitter Inc, Snap Inc and Pinterest Inc lost another $15 billion in value.\n\nShares of Alphabet Inc, which posted record quarterly sales that topped expectations on February 1, were down nearly 2 percent.",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em>, owner of the second-largest digital ad platform in the world after Google, had previously warned its advertising business faced \"significant uncertainty\" in the fourth quarter.",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> forecast first-quarter revenue in the range of $27 billion to $29 billion. Analysts were expecting $30.15 billion, according to IBES data from Refinitiv.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"It's clear that there are many big roadblocks ahead as <em>Meta</em> faces tough new competition for ad revenue such as TikTok, and as it contends with ongoing ad targeting and measurement challenges from Apple's iOS changes,\" said Insider Intelligence analyst Debra Aho Williamson.",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company said on Wednesday it would this year change its stock ticker to \"<em>META</em>,\" the latest step in its rebrand to focus on the metaverse (AR), a futuristic idea of virtual environments where users can work, socialize and play.",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> did not comment on the price of a deal with Roundhill Investments, which said in January it would stop using the symbol for its <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>.\n\nThe tech giant, which changed its name in October to reflect its metaverse aims, is betting the metaverse will be the successor to the mobile internet.",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"Investors looking at <em>Meta</em> are starting to realize that buying their stock is no longer mostly an investment into their ad platform,\" said Flynn Zaiger, CEO of social media agency Online Optimism. \"Investing in <em>Meta</em> now looks more like a commitment that you believe that the metaverse will replace much of the internet consumers' experience today.\"",
+                            "sentiment": 0.7871,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Facebook loses daily users for the first time, <em>Meta</em> shares sink 20%",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "57647d50-c520-4d5f-a518-1d3b50339dac",
+            "title": "Meta shares plunge 20% as Facebook owner sees slowing growth",
+            "description": "BENGALURU/NEW YORK: Facebook owner Meta Platforms Inc shares plunged 20% late yesteray as the social media company missed on Wall Street earnings esti...",
+            "keywords": "",
+            "snippet": "BENGALURU/NEW YORK: Facebook owner Meta Platforms Inc shares plunged 20% late yesteray as the social media company missed on Wall Street earnings estimates and ...",
+            "url": "https://www.thesundaily.my/business/meta-shares-plunge-20-as-facebook-owner-sees-slowing-growth-CH8823884",
+            "image_url": "https://www.thesundaily.my/binrepository/480x306/0c28/480d250/none/11808/TUMC/meta_2151276_20220203072125.jpg",
+            "language": "en",
+            "published_at": "2022-02-03T01:00:00.000000Z",
+            "source": "thesundaily.my",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 83.51859,
+                    "sentiment_score": 0.165829,
+                    "highlights": [
+                        {
+                            "highlight": "BENGALURU/NEW YORK: Facebook owner <em>Meta</em> Platforms Inc shares plunged 20% late yesteray as the social media company missed on Wall Street earnings estimates and posted a weaker-than-expected forecast.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> said it faced hits from Apple Inc's privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram, and from macroeconomic issues like supply-chain disruptions.",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The after-hours slump in <em>Meta</em> shares vaporised US$200 billion (RM837 billion) worth of its market value, with another US$15 billion in value lost from peers Twitter Inc, Snap Inc and Pinterest Inc.\n\nShares of Alphabet Inc, which posted record quarterly sales that topped expectations on Tuesday, were down 1.3%.",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em>, which has the second-largest digital ad platform in the world after Google, had previously warned its advertising business faced \u201csignificant uncertainty\u201d in the fourth quarter.\n\nThe company forecast first-quarter revenue in the range of US$27 billion to US$29 billion.",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company said yesterday it would this year change its stock ticker to \u201c<em>META</em>\u201d, the latest step in its rebrand to focus on the metaverse, a futuristic idea of virtual environments where users can work, socialise and play.",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "It did not comment on the price of a deal with Roundhill Investments, which said in January it would stop using the symbol for its <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>.",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> shares plunge 20% as Facebook owner sees slowing growth",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+},
+{
+    "meta": {
+        "found": 83,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "dd291681-1f39-4268-85a4-31d213036575",
+            "title": "Meta shares plunge 20% as Facebook feels heat from Apple and TikTok",
+            "description": "Read more about Meta shares plunge 20% as Facebook feels heat from Apple and TikTok on Business Standard. Meta, which missed on Wall Street's earnings estimates, said it faced hits from Apple Inc's privacy changes to its operating system",
+            "keywords": "meta, meta facebook, meta zuckerberg, meta latest news and updates, metaverse",
+            "snippet": "owner Meta Platforms Inc's shares plunged more than 20% late on Wednesday as the social media company posted a weaker-than-expected forecast, blaming Apple's pr...",
+            "url": "https://www.business-standard.com/article/international/meta-shares-plunge-20-as-facebook-feels-heat-from-apple-and-tiktok-122020300104_1.html",
+            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/03/full/1643849284-3974.jpg",
+            "language": "en",
+            "published_at": "2022-02-03T00:51:01.000000Z",
+            "source": "business-standard.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 68.96002,
+                    "sentiment_score": 0.2395,
+                    "highlights": [
+                        {
+                            "highlight": "owner <em>Meta</em> Platforms Inc's shares plunged more than 20% late on Wednesday as the social media company posted a weaker-than-expected forecast, blaming Apple's privacy changes and increased competition for users from rivals like\n\n<em>Meta</em>, which missed on Wall Street's earnings estimates, said it faced hits from Inc's privacy changes to its operating system",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The after-hours slump in <em>Meta</em> shares vaporized $200 billion worth of its market value, with another $15 billion in value lost from peers Twitter Inc, Snap Inc and Pinterest Inc.\n\nShares of Alphabet Inc, which posted record quarterly sales that topped expectations on Tuesday, were down nearly 2%.",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em>, which has the second-largest digital ad platform in the world after Google, had previously warned its advertising business faced \"significant uncertainty\" in the fourth quarter.",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> forecast first-quarter revenue in the range of $27 billion to $29 billion. Analysts were expecting $30.15 billion, according to IBES data from Refinitiv.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"It's clear that there are many big roadblocks ahead as <em>Meta</em> faces tough new competition for ad revenue such as TikTok, and as it contends with ongoing ad targeting and measurement challenges from Apple's iOS changes,\" said Insider Intelligence analyst Debra Aho Williamson.",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company said on Wednesday it would this year change its stock ticker to \"<em>META</em>,\" the latest step in its rebrand to focus on the metaverse https://www.reuters.com/technology/what-is-metaverse-2021-10-18/#:~:text=Metaverse%20is%20a%20broad%20term,or%20augmented%20reality%20(AR), a futuristic idea of virtual environments where users can work, socialize",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> did not comment on the price of a deal with Roundhill Investments, which said in January it would stop using the symbol for its <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>.\n\nThe tech giant, which changed its name in October to reflect its metaverse aims, is betting the metaverse will be the successor to the mobile internet.",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"Investors looking at <em>Meta</em> are starting to realize that buying their stock is no longer mostly an investment into their ad platform,\" said Flynn Zaiger, CEO of social media agency Online Optimism. \"Investing in <em>Meta</em> now looks more like a commitment that you believe that the metaverse will replace much of the Internet consumers' experience today.\"",
+                            "sentiment": 0.7871,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> shares plunge 20% as Facebook feels heat from Apple and TikTok",
+                            "sentiment": 0.296,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "f7e88eff-c8a6-4e3e-9b12-49cb9fb09d19",
+            "title": "Meta shares plunge as Facebook owner misses on earnings, forecast",
+            "description": "Shares plunged 20 per cent late on Wednesday",
+            "keywords": "",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nMeta shares plunge as Facebook owner misses on earnings, forecast Shares plunged 20 pe...",
+            "url": "https://financialpost.com/investing/meta-shares-plunge-as-facebook-owner-misses-on-earnings-forecast",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/02/no0202meta.jpg",
+            "language": "en",
+            "published_at": "2022-02-02T22:12:25.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 70.79285,
+                    "sentiment_score": 0.059214,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> shares plunge as Facebook owner misses on earnings, forecast Shares plunged 20 per cent late on Wednesday Photo by CHRIS DELMAS/AFP via Getty Images files\n\nArticle content Facebook owner <em>Meta</em> Platforms Inc shares plunged 20 per cent late on Wednesday as the social media company missed on Wall Street earnings estimates and posted a weaker-than-expected",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content <em>Meta</em> said it faced hits from Apple Inc\u2019s privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram, and from macroeconomic issues like supply-chain disruptions. We apologize, but this video has failed to load.\n\ntap here to see other videos from our team.",
+                            "sentiment": -0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Try refreshing your browser, or <em>Meta</em> shares plunge as Facebook owner misses on earnings, forecast Back to video The after-hours slump in <em>Meta</em> shares vaporized US$200 billion worth of its market value, with another US$15 billion in value lost from peers Twitter Inc, Snap Inc and Pinterest Inc.",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em>, which has the second-largest digital ad platform in the world after Google, had previously warned its advertising business faced \u201csignificant uncertainty\u201d in the fourth quarter.\n\nAdvertisement Story continues below This advertisement has not loaded yet, but your article continues below.",
+                            "sentiment": -0.1406,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company said on Wednesday it would this year change its stock ticker to \u201c<em>META</em>,\u201d the latest step in its rebrand to focus on the metaverse , a futuristic idea of virtual environments where users can work, socialize and play.",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "It did not comment on the price of a deal with Roundhill Investments, which said in January it would stop using the symbol for its <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>.",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> shares plunge as Facebook owner misses on earnings, forecast",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "71f75732-b26e-432c-99da-d520382bc2fd",
+            "title": "Meta shares plunge 20% as Facebook owner sees slowing growth",
+            "description": "Facebook owner Meta Platforms Inc shares plunged 20% late on Wednesday as the social media company missed on Wall Street earnings estimates and posted a weaker-than-expected forecast. ... | February  2,  2022",
+            "keywords": "META PLATFORMS, INC. stock exchange, news, information, press release, facebook, owner, meta, platforms, inc, shares, plunged, late, on, wednesday, as, the, social, media, company, missed, wall, street, earnings, estimates, and, posted | FB | US30303M1027",
+            "snippet": "Meta said it faced hits from Apple Inc's privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebo...",
+            "url": "https://www.marketscreener.com/quote/stock/META-PLATFORMS-INC-10547141/news/Meta-shares-plunge-20-as-Facebook-owner-sees-slowing-growth-37727011/",
+            "image_url": "https://img.zonebourse.com/reuters/2022-02/2022-02-02T213505Z_2_LYNXMPEI1112W_RTROPTP_3_META-PLATFORMS-RESULTS.JPG",
+            "language": "en",
+            "published_at": "2022-02-02T21:58:15.000000Z",
+            "source": "marketscreener.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 83.61284,
+                    "sentiment_score": 0.172017,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> said it faced hits from Apple Inc's privacy changes to its operating system, which have made it harder for brands to target and measure their ads on Facebook and Instagram, and from macroeconomic issues like supply-chain disruptions.",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The after-hours slump in <em>Meta</em> shares vaporized $200 billion worth of its market value, with another $15 billion in value lost from peers Twitter Inc, Snap Inc and Pinterest Inc.\n\nShares of Alphabet Inc, which posted record quarterly sales that topped expectations on Tuesday, were down 1.3%.",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em>, which has the second-largest digital ad platform in the world after Google, had previously warned its advertising business faced \"significant uncertainty\" in the fourth quarter.\n\nThe company forecast first-quarter revenue in the range of $27 billion to $29 billion.",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company said on Wednesday it would this year change its stock ticker to \"<em>META</em>,\" the latest step in its rebrand to focus on the metaverse, a futuristic idea of virtual environments where users can work, socialize and play.",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "It did not comment on the price of a deal with Roundhill Investments, which said in January it would stop using the symbol for its <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>.",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> shares plunge 20% as Facebook owner sees slowing growth",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+},
+{
+    "meta": {
+        "found": 80,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "62c37feb-d8c7-4775-abd8-766d1f93280f",
+            "title": "Investire in Azioni Metaverse. Le migliori su cui investire nel 2022",
+            "description": "C'\u00e8 una una grande opportunit\u00e0 nel regno virtuale del metaverso ed investire in azioni metaverse oggi potrebbe metterti in una posizione di privilegio in ottica futura",
+            "keywords": "",
+            "snippet": "Il metaverse \u00e8 un argomento caldo in borsa, la performance dei titoli con esposizione al metaverse \u00e8 variata ampiamente nel 2021. Indipendentemente dall\u2019and...",
+            "url": "https://www.doveinvestire.com/mercato-azionario/investire-azioni-metaverse-2022/",
+            "image_url": "https://www.doveinvestire.com/wp-content/uploads/2022/02/investire-azioni-metaverse-2022.jpg",
+            "language": "it",
+            "published_at": "2022-02-02T16:40:16.000000Z",
+            "source": "doveinvestire.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 27.16659,
+                    "sentiment_score": null,
+                    "highlights": [
+                        {
+                            "highlight": "Ecco alcune considerazioni principali, in ordine sparso:\n\n<em>Meta</em> Platforms\n\nFormalmente noto come Facebook, <em>Meta</em> Platforms (NASDAQ: FB) \u00e8 responsabile di portare la tendenza del metaverso in primo piano nelle menti degli investitori. La maggior parte delle entrate dell\u2019azienda \u00e8 generata dagli annunci sulle app di Facebook e Instagram.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Tuttavia, la famiglia di visori Oculus VR di Facebook ha venduto collettivamente pi\u00f9 unit\u00e0 di qualsiasi altra sul mercato, rendendo <em>Meta</em> uno dei migliori titoli per hardware metaverso immersivo.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Un\u2019opzione \u00e8 il <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em> (NYSEMKT: <em>META</em>), che include cinque dei titoli gi\u00e0 elencati qui pi\u00f9 dozzine di altri, fornendo una diversificazione istantanea per gli azionisti.\n\nA differenza delle azioni, gli ETF sono soggetti a commissioni correnti e l\u2019ETF Roundhill Ball Metaverse non fa eccezione.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "fc454c92-ad57-4e35-9446-6cd7e610fc43",
+            "title": "Il Trading nel futuro. Metaverso e le opportunit\u00e0 offerte",
+            "description": "Il regno virtuale noto come metaverso potrebbe essere il mondo di domani, ma due tecnologie che lo abilitano potrebbero creare opportunit\u00e0 per gli investitori di oggi.",
+            "keywords": "",
+            "snippet": "Il regno virtuale noto come metaverso potrebbe essere il mondo di domani, ma due tecnologie che lo abilitano potrebbero creare opportunit\u00e0 per gli investitori ...",
+            "url": "https://www.doveinvestire.com/mercato-azionario/trading-futuro-metaverso-opportunita-offerte/",
+            "image_url": "https://www.doveinvestire.com/wp-content/uploads/2022/02/trading-metaverso-opportunita.jpg",
+            "language": "it",
+            "published_at": "2022-02-01T09:10:28.000000Z",
+            "source": "doveinvestire.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 66.12038,
+                    "sentiment_score": null,
+                    "highlights": [
+                        {
+                            "highlight": "Nell\u2019ottobre 2021, per esempio, Facebook si \u00e8 ribattezzata <em>Meta</em>, riflettendo il suo interesse per il metaverso come un mondo virtuale in cui le interazioni tra gli esseri umani sono rese possibili attraverso avatar digitali, controllati tramite set di realt\u00e0 virtuale (VR) come Oculus.",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Per inciso, nel 2021 le vendite degli headset Oculus Quest 2 di <em>Meta</em> hanno superato quelle della console di gaming Xbox di Microsoft, mostrando il crescente interesse dei consumatori verso questa nuova tecnologia.\n\nAnche altri giganti della tecnologia come Apple, Google e Microsoft stanno seguendo le orme di <em>Meta</em> sviluppando i propri visori VR.",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Plus500 offre contratti per differenza (CFD) per scambiare aziende leader, tra cui Facebook (ora <em>Meta</em>), Nvidia e Disney, che hanno investito miliardi in questa tecnologia.\n\nUn altro modo per accedere al metaverso \u00e8 rappresentato dagli ETF.",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Plus500 offre ai trader l\u2019opportunit\u00e0 di scambiare il <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>, un fondo indice che traccia la performance del Ball Metaverse Index, comprendente 40 societ\u00e0 quotate a livello globale coinvolte nel metaverso. I trader possono anche ottenere un\u2019esposizione a questa tecnologia attraverso i Crypto CFD.",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Di conseguenza, impegnarsi nell\u2019ecosistema del metaverso potrebbe risultare una mossa strategicamente vincente, e il trading di CFD su azioni di societ\u00e0 che hanno adottato questa tecnologia, criptovalute, o il <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em> con Plus500, possono essere i primi passi di un trader in questo spazio entusiasmante.",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "434c0bb2-c9ff-45db-a9c0-3212047eab9e",
+            "title": "Trading the Future: What is the Metaverse and How to Trade it",
+            "description": "The metaverse is a set of interconnected and experiential worlds spanning the digital and physical realms, an emerging multisensory iteration of the web.",
+            "keywords": "",
+            "snippet": "The metaverse is a set of interconnected and experiential worlds spanning the digital and physical realms, an emerging multisensory iteration of the web. It is ...",
+            "url": "https://www.resumocast.com.br/trading-the-future-what-is-the-metaverse-and-how-to-trade-it/",
+            "image_url": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/01/750x500-1-1.jpg",
+            "language": "pt",
+            "published_at": "2022-01-31T21:12:38.000000Z",
+            "source": "resumocast.com.br",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 71.354965,
+                    "sentiment_score": null,
+                    "highlights": [
+                        {
+                            "highlight": "In October 2021, for example, Facebook rebranded itself as <em>Meta</em>, reflecting its interest in the metaverse as a virtual world where interactions between humans are made possible through digital avatars. These avatars are controlled through virtual reality (VR) headsets like Oculus.",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other tech giants such as Apple, Google, and Microsoft are also following in the footsteps of <em>Meta</em> by developing their own VR headsets. This is a huge milestone for the metaverse, given that as more tech companies adopt this technology, the chances of the metaverse as a pervasive technology will increase.",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Plus500 offers contracts for difference (CFDs) to trade leading companies, including Facebook (now <em>Meta</em>), Nvidia, and Disney, all of which have invested billions in metaverse technology.\n\nETFs are another way to gain access to the metaverse.",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Plus500 offers traders the opportunity to trade the <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>, an index fund that tracks the performance of the Ball Metaverse Index, comprising 40 globally listed companies involved in the metaverse. Traders can also gain exposure to this technology through Crypto CFDs.",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Thus, engaging with the metaverse ecosystem is a move that might be worth taking, and trading CFDs on stocks of companies that have adopted this technology, Cryptocurrencies, or the <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em> with Plus500, can be a trader\u2019s first steps in this exciting space.",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+},
+{
+    "meta": {
+        "found": 77,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "36d4cde8-89aa-47fc-9920-c2acb7bf8b4b",
+            "title": "Trading the Future: What is the Metaverse and How to Trade it",
+            "description": "The Metaverse buzz was driven by the adoption amongst the big tech companies.",
+            "keywords": "Plus500",
+            "snippet": "It is safe to assume that in one way or another you have encountered the word \u201cmetaverse\u201d before. But do you know what it actually means?\n\nThe metaverse is ...",
+            "url": "https://www.forexlive.com/Education/trading-the-future-what-is-the-metaverse-and-how-to-trade-it-20220131/",
+            "image_url": "https://images.forexlive.com/images/Plus500_id_3fad3f7a-391a-466f-b792-3caa0626e8a5_size900.jpg?v=1643624884308",
+            "language": "en",
+            "published_at": "2022-01-31T10:06:31.000000Z",
+            "source": "forexlive.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 69.36856,
+                    "sentiment_score": 0.6386,
+                    "highlights": [
+                        {
+                            "highlight": "In October 2021, for example, Facebook rebranded itself as <em>Meta</em>, reflecting its interest in the metaverse as a virtual world where interactions between humans are made possible through digital avatars. These avatars are controlled through virtual reality (VR) headsets like Oculus.",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other tech giants such as Apple, Google, and Microsoft are also following in the footsteps of <em>Meta</em> by developing their own VR headsets. This is a huge milestone for the metaverse, given that as more tech companies adopt this technology, the chances of the metaverse as a pervasive technology will increase.",
+                            "sentiment": 0.7501,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Plus500 offers contracts for difference (CFDs) to trade leading companies, including Facebook (now <em>Meta</em>), Nvidia, and Disney, all of which have invested billions in metaverse technology.\n\nETFs are another way to gain access to the metaverse.",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Plus500 offers traders the opportunity to trade the <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>, an index fund that tracks the performance of the Ball Metaverse Index, comprising 40 globally listed companies involved in the metaverse. Traders can also gain exposure to this technology through Crypto CFDs.",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Thus, engaging with the metaverse ecosystem is a move that might be worth taking, and trading CFDs on stocks of companies that have adopted this technology, Cryptocurrencies, or the <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em> with Plus500, can be a trader\u2019s first steps in this exciting space.",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "2508a4b2-d078-46c2-a9fa-d3b5e6e35013",
+            "title": "META ETF: Hit All-Time Lows - Buy For Speculation Only (NYSEARCA:META)",
+            "description": "The META ETF hit its all-time lows recently. The ETF has 46 stocks, and count Apple as a top six holding.",
+            "keywords": "",
+            "snippet": "tolgart/E+ via Getty Images\n\nInvestment Thesis\n\nRoundhill Ball Metaverse ETF (NYSEARCA:META) has hit its all-time lows recently, as the market correction contin...",
+            "url": "https://seekingalpha.com/article/4482773-meta-etf-hit-all-time-lows-buy-for-speculation-only",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1359501913/image_1359501913.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2022-01-30T13:00:00.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 113.13556,
+                    "sentiment_score": 0.304436,
+                    "highlights": [
+                        {
+                            "highlight": "tolgart/E+ via Getty Images\n\nInvestment Thesis\n\n<em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em> (<em>NYSEARCA:META</em>) has hit its all-time lows recently, as the market correction continued in January. However, in a late December article, we highlighted that investors keen on a diversified metaverse ETF can consider <em>META</em>.",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As such, while we still rate <em>META</em> as a Buy, we believe it should only be used as a speculative opportunity to gain access to the metaverse.",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Apple Joined the Top Six Holdings for January\n\nChanges in <em>META</em> top six holdings since 26 November'21 Roundhill Investments\n\nReaders can glean that the most notable change to <em>META</em> ETF's top six holdings as of 28 January is the addition of Apple (NASDAQ:AAPL) stock.",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Its continued slide from its all-time highs in September has added more misery for its investors and <em>META</em> ETF. Despite losing more than 60% of its value since September, some investors still consider its valuation too expensive.",
+                            "sentiment": -0.272,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>META</em> ETF performance koyfin\n\nFurthermore, Roblox (NYSE:RBLX) and Unity (NYSE:U) stocks have also continued to slide after making their all-time highs in November. Their spikes in November were the key reasons why we were cautious on META's positioning back then. As both stocks continued declining, their weightings in <em>META</em> have also fallen.",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Notably, we also observed that the manner of their recent slides bore similarity to <em>META</em> ETF's price decline, as seen above. Both stocks are still among the top 6 holdings of the <em>META</em> ETF, so investors should continue to expect significant volatility.\n\nNVIDIA (NASDAQ:NVDA) stock was its #1 holding in November and December.",
+                            "sentiment": 0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>META</em> ETF Performance koyfin\n\nTherefore, <em>META</em> had to count on what we consider as \"predictable\" stocks for their wide moats and strong competitive advantages recently; the trio of Microsoft (NASDAQ:MSFT), <em>Meta</em> Platforms (NASDAQ:FB), and Apple. Microsoft and Apple announced their earnings last week.",
+                            "sentiment": 0.7579,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Thus, we believe that AAPL and MSFT's robust performances will continue to undergird <em>META</em> ETF's performances moving ahead. Moreover, we can observe that both stocks have also significantly outperformed the ETF.\n\n<em>Meta</em> Platforms will report its results in the coming week. It's vital as FB stock is the #1 holding in <em>META</em> ETF's holdings for January.",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Therefore, we can understand why NVDA stock is still the #2 holding in the <em>META</em> ETF. We are confident that the stock will continue to outperform over time.\n\nThen, Why Buy Only for Speculation?\n\n<em>META</em> ETF performance koyfin\n\n<em>META</em> ETF currently has 46 stocks.",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>META</em> needs to prove that it can deliver much better consistency before we are willing to consider it suitable for a general thematic investment strategy.\n\nWhile we reiterate our Buy rating, we wish to caution that it's suitable only as a speculative opportunity for now.",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>META</em> ETF: Hit All-Time Lows - Buy For Speculation Only (<em>NYSEARCA:META</em>)",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "7ad04afa-51ac-4893-9a63-55a07aea7bcf",
+            "title": "Invest In The Metaverse With META (NYSEARCA:META)",
+            "description": "The Roundhill Ball Metaverse ETF, META, invests in the Metaverse, the planned virtual reality replacement to the internet. Find an overview of the fund here.",
+            "keywords": "",
+            "snippet": "RB Stocker/iStock via Getty Images\n\nA couple months ago, Mark Zuckerberg announced that Facebook (FB) was changing its name to Meta, as part of a corporate pivo...",
+            "url": "https://seekingalpha.com/article/4482760-invest-in-the-metaverse-with-meta",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1362680725/image_1362680725.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2022-01-30T05:44:21.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 111.645226,
+                    "sentiment_score": 0.367118,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> is going all-in on the metaverse, with a suite of products and services including virtual reality workspaces, augmented reality glasses, and virtual reality games.\n\n<em>Meta</em> Corporate Website\n\nMeta's pivot is part of a larger tech shift towards the metaverse, and attendant products and services.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investing in the metaverse seems like a reasonably good idea, which is where the <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em> (<em>META</em>) comes in. <em>META</em> is exactly what it says on the tin: a metaverse ETF, investing in companies focused on the development and support of virtual / augmented reality products and services.",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>META</em> is a classic high-risk high-reward investment opportunity, and appropriate for aggressive growth investors looking for exposure to the Metaverse.\n\n<em>META</em> - Overview\n\n<em>META</em> is an ETF focusing on the metaverse. It is technically an index ETF, tracking the Ball metaverse Index.",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As such, I consider <em>META</em> to be closer to an actively-managed fund than to an index fund, for all intents and purposes.\n\n<em>META</em> focuses on the metaverse which, according to the fund's management team, is the successor to the current internet.",
+                            "sentiment": 0.2263,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "META's thematic exposure and holdings are as follows:\n\n<em>META</em> Corporate Website <em>META</em> Corporate Website\n\nMETA's holdings and industry exposures are clearly reflective of its niche / themes. As an example, Nvidia (NVDA) is the premier developer of computer graphics cards, necessary for virtual gaming and the like.",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>META</em> Corporate Website\n\nThe coronavirus pandemic accelerated some of the trends underpinning <em>META</em>, especially in regards to working from home, which should boost revenues for these companies further.\n\n<em>META</em> Corporate Website\n\nImportantly, the above are not simply purely speculative projections, but reflective of current trends.",
+                            "sentiment": 0.3405,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Data by YCharts\n\n<em>META</em> - Drawbacks\n\nUndiversified Niche Holdings\n\n<em>META</em> is an incredibly undiversified fund. The fund invests in a relatively low number of securities: 44. Most broad-based equity index funds invest in hundreds, some even thousands, of securities, as do most actively-managed equity funds.",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Most funds are more diversified, and so these issues are minimized, but that is most definitely not the case for <em>META</em>.\n\nDue to the above, and as a risk-reduction measure, allocations to <em>META</em> should be kept relatively small. A 5% allocation, max, seems reasonable, in my opinion at least.",
+                            "sentiment": 0.6054,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>META</em> could suffer significant losses and underperformance relative to its index, and to a much greater degree than the average growth fund, actively-managed fund, or equity fund. <em>META</em> is a risky investment, and only appropriate for aggressive growth investors.",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>META</em> is a classic high-risk high-reward investment opportunity, and appropriate for investors looking for exposure to the metaverse.",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Invest In The Metaverse With <em>META</em> (<em>NYSEARCA:META</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+},
+{
+    "meta": {
+        "found": 74,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "056365e6-74cf-4199-901f-96d0588c7771",
+            "title": "OTP, arany, mateverzum? \u2013 Mibe tegy\u00fck id\u00e9n a p\u00e9nz\u00fcnket?",
+            "description": "2022 is az infl\u00e1ci\u00f3r\u00f3l \u00e9s annak let\u00f6r\u00e9s\u00e9t c\u00e9lz\u00f3 gazdas\u00e1gi, monet\u00e1ris int\u00e9zked\u00e9sekr\u0151l sz\u00f3lhat az Equilor elemz\u0151i szerint, ami \u00faj lehet\u0151s\u00e9geket teremt a befektet\u00e9sekben, mert a r\u00e9szv\u00e9nypiacokon a n\u00f6veked\u00e9si pap\u00edrok fel\u0151l az \u00e9rt\u00e9kalap\u00faak fel\u00e9 mozdulhat a kereslet. Az Equilor ma bemutatott \u00e9ves strat\u00e9gi\u00e1j\u00e1ban kiemel n\u00e9h\u00e1ny k\u00fclf\u00f6ldi r\u00e9szv\u00e9nyt, v\u00e9lem\u00e9nyt mond a hazai r\u00e9szv\u00e9nypiaci sztorikr\u00f3l, a metaverzumr\u00f3l, valamint az olaj \u00e9s az arany kil\u00e1t\u00e1sair\u00f3l.",
+            "keywords": "",
+            "snippet": "2022 is az infl\u00e1ci\u00f3r\u00f3l \u00e9s annak let\u00f6r\u00e9s\u00e9t c\u00e9lz\u00f3 gazdas\u00e1gi, monet\u00e1ris int\u00e9zked\u00e9sekr\u0151l sz\u00f3lhat az Equilor elemz\u0151i szerint, ami \u00faj lehet\u0151s\u00e9geket...",
+            "url": "https://www.portfolio.hu/uzlet/20220126/otp-arany-mateverzum-mibe-tegyuk-iden-a-penzunket-523195",
+            "image_url": "https://cdn.portfolio.hu/articles/images-xl/h/a/p/happy-trader-tozsde-507865.jpg",
+            "language": "hu",
+            "published_at": "2022-01-26T15:30:00.000000Z",
+            "source": "portfolio.hu",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 28.98837,
+                    "sentiment_score": null,
+                    "highlights": [
+                        {
+                            "highlight": "Ut\u00f3bbi eset\u00e9re p\u00e9lda a <em>Meta</em> Platforms , mely azon k\u00edv\u00fcl, hogy platformot is biztos\u00edthat a metaverzumba egy elengedhetetlen eszk\u00f6zt is gy\u00e1rt a v\u00e1llalat, mely az Oculus VR szem\u00fcveg.\n\n, mely azon k\u00edv\u00fcl, hogy platformot is biztos\u00edthat a metaverzumba egy elengedhetetlen eszk\u00f6zt is gy\u00e1rt a v\u00e1llalat, mely az Oculus VR szem\u00fcveg.",
+                            "sentiment": 0.7034,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Illetve van lehet\u0151s\u00e9g diverzifik\u00e1lt ETF-eken kereszt\u00fcl is r\u00e9szt venni az ipar\u00e1g n\u00f6veked\u00e9s\u00e9ben, melyre a legn\u00e9pszer\u0171bb v\u00e1laszt\u00e1st a <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>-je k\u00edn\u00e1lja, mely alap k\u00f6zel 50 eszk\u00f6z k\u00f6z\u00f6tt allok\u00e1lja sz\u00e9t befektet\u00e9s\u00fcnket.",
+                            "sentiment": 0.7034,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "38594080-ef36-4845-bafe-3b095e18754b",
+            "title": "The metaverse, the markets and the Microsoft share price",
+            "description": "Metaverse stocks or ETFs? Bloomberg Intelligence data predicts the metaverse will be worth $800 billion by 2024. $400 billion will be created by the",
+            "keywords": "",
+            "snippet": "Metaverse stocks or ETFs?\n\nBloomberg Intelligence data predicts the metaverse will be worth $800 billion by 2024. $400 billion will be created by the online gam...",
+            "url": "https://www.resumocast.com.br/the-metaverse-the-markets-and-the-microsoft-share-price/",
+            "image_url": "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/bg_microsoft_363480287.jpg",
+            "language": "pt",
+            "published_at": "2022-01-23T12:00:41.000000Z",
+            "source": "resumocast.com.br",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 48.986782,
+                    "sentiment_score": null,
+                    "highlights": [
+                        {
+                            "highlight": "A pure metaverse investment is the <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>. It tracks the Ball Metaverse Index, the first in the world designed to track the new investing concept. Including <em>Meta</em> Platforms, Microsoft and Roblox in its top 10 holdings, this ETF could be a safer choice for the risk-averse.",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "And gaming companies need the financial firepower of behemoths like <em>Meta</em> and Microsoft, which could continually be blocked by the regulators. And Ken Kutaragi, creator of Sony\u2019s PlayStation, \u2018can\u2019t see the point of the metaverse.\u2019\n\nBut the current tech and cryptocurrency sell-off pose a more immediate danger.",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "55608b09-356f-4bae-b891-de4851a51859",
+            "title": "Leavell Investment Management, Inc. Buys Quadratic Interest Rate Volatility And Inflation H, Schwab US Dividend Equity ETF, iShares iBonds Dec 2025 Term Muni Bond ETF, Sells iShares iBonds Dec 2021 Te",
+            "description": "GuruFocus Article or News written by insider and the topic is about:",
+            "keywords": "GuruFocus, Article, News, insider, SCHD, BSCM, VEA, FNDF, BSCN, IBDN, IVOL, IBMN, INFL, PDO, QQQJ, META, IBMJ, IBDM, REGN, IDV, GOLD, SPIB, ",
+            "snippet": "New Purchases: IVOL, IBMN, INFL, PDO, QQQJ, META, BXSL, EWU, GXO, LNG, FLOT, ENPH, IBDQ, BSJN, ICSH, CG, BSJO, BSJM, IBHB, PLTR, ARKQ, ARKK, CXM, IBHC, ONEY, HY...",
+            "url": "https://www.gurufocus.com/news/1621986/read",
+            "image_url": "https://www.gurufocus.com/favicon.ico",
+            "language": "en",
+            "published_at": "2022-01-20T18:38:12.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Roundhill Ball Metaverse ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 33.82772,
+                    "sentiment_score": 0.148,
+                    "highlights": [
+                        {
+                            "highlight": "New Purchases: IVOL, IBMN, INFL, PDO, QQQJ, <em>META</em>, BXSL, EWU, GXO, LNG, FLOT, ENPH, IBDQ, BSJN, ICSH, CG, BSJO, BSJM, IBHB, PLTR, ARKQ, ARKK, CXM, IBHC, ONEY, HYG, XLRE, NFRA, SPDW, FM, ARKF, COIN, RILY, SGEN, STX, DHI, CP, BSMO, NGL, PH, MSI, CPSI, LNT,\n\nIVOL, IBMN, INFL, PDO, QQQJ, <em>META</em>, BXSL, EWU, GXO, LNG, FLOT, ENPH, IBDQ, BSJN, ICSH, CG, BSJO,",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Leavell Investment Management, Inc. initiated holding in <em>Roundhill</em> <em>Ball</em> <em>Metaverse</em> <em>ETF</em>. The purchase prices were between $13.9 and $16.9, with an estimated average price of $15.41. The stock is now traded at around $13.670000. The impact to a portfolio due to this purchase was 0.12%. The holding were 123,490 shares as of 2021-12-31.",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}]
